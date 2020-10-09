@@ -5,10 +5,12 @@ Accomplished professional with hands-on experience in research database manageme
 
 •	Statistical Modelling
 •	Statistical Programming
-•	Clinical Trials 
+•	Clinical Trials
+
 •	Data Research & Development
 •	Business Analyst	
 •	Data Science
+
 •	Research Data Management	
 •	Machine Learning
 •	Project Planning & Scheduling
